@@ -1,0 +1,8 @@
+#закрываем не нужные файлы
+Thumbs.db
+#расширения
+*.DS_Store
+*.html_old
+*.png_baskup
+#папки
+tmp/
